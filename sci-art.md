@@ -18,3 +18,8 @@ permalink: /sci-art/
 
 ### The Development and Behaviour Journal Club at the BLiSc campus, Bangalore
 ![DBJC](/assets/img/sci-art/DBJC.png){: .sciart }
+
+---
+
+### The Development and Behaviour Journal Club at the BLiSc campus, Bangalore
+![DBJC](/assets/img/sci-art/MyPhD.png){: .sciart }
