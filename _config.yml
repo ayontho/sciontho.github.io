@@ -22,9 +22,9 @@ author: Ayanthi Bhattacharya
 navbar-links:
   "Pow-wow": "pow-wow"
   "Sci-Art": "sci-art"
-  "DrawnToScience": "drawn-to-science"
-  Archive: "archive"
-  Contact: "contact"
+  "Drawn to Science": "drawn-to-science"
+  "Archive": "archive"
+  "Contact": "contact"
 
 ################
 # --- Logo --- #
@@ -59,7 +59,7 @@ social-network-links:
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: "Ayanthi Bhattacharya"
+  linkedin: "ayanthi-bhattacharya"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
