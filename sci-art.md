@@ -12,7 +12,7 @@ permalink: /sci-art/
 ---
 
 ### Pastel Neuron
-![Pastel Neuron](/assets/img/sci-art/neuron-pastel.png){: .sciart }
+![Mirror mirror](/assets/img/sci-art/MirrorMirror.png){: .sciart }
 
 ---
 
