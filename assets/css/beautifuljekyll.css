@@ -1220,3 +1220,18 @@ footer a {
 footer a:hover {
   color: #B5EAD7; /* mint */
 }
+/* Override navbar colour to creamy background */
+.navbar-default {
+  background-color: #FDFCF0 !important;
+  border-color: #FDFCF0 !important;
+}
+
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-brand {
+  color: #4A4A4A !important; /* faded ink text */
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-brand:hover {
+  color: #FF9AA2 !important; /* soft coral hover */
+}
