@@ -1332,3 +1332,14 @@ footer a:hover {
   border-radius: 12px;
   box-shadow: 0 4px 14px rgba(0,0,0,0.06);
 }
+/* Fix navbar spacing so logo doesn't overlap the first menu item */
+.navbar-nav > li {
+  margin-left: 18px;   /* increase spacing between items */
+  margin-right: 18px;
+}
+
+.navbar-brand {
+  margin-right: 24px;  /* add space between logo and "pow-wow" */
+}
+
+/* If you want even more space, increase these numbers */
