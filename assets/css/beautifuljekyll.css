@@ -1334,8 +1334,8 @@ footer a:hover {
 }
 /* Fix navbar spacing so logo doesn't overlap the first menu item */
 .navbar-nav > li {
-  margin-left: 18px;   /* increase spacing between items */
-  margin-right: 18px;
+  margin-left: 12px;   /* increase spacing between items */
+  margin-right: 12px;
 }
 
 .navbar-brand {
