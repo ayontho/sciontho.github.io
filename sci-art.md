@@ -7,14 +7,14 @@ permalink: /sci-art/
 ## Gallery
 
 ### Unpack dense science with Sciontho! (2025)
-![Sciontho](/assets/img/sci-art/ScionthoFinal.png){: .sciart }
+![Sciontho](/assets/img/sci-art/Sciontho.png){: .sciart }
 
 ---
 
-### Pastel Neuron
+### Mirror self-recognition test — a classic behavioural experiment used to study self-awareness in animals
 ![Mirror mirror](/assets/img/sci-art/MirrorMirror.png){: .sciart }
 
 ---
 
-### Cell Division (Pastel)
-![Cell Division](/assets/img/sci-art/cell-division-soft.png){: .sciart }
+### The Development and Behaviour Journal Club at the BLiSc campus, Bangalore
+![DBJC](/assets/img/sci-art/DBJC.png){: .sciart }
