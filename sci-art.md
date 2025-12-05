@@ -39,7 +39,7 @@ A small gallery of science-inspired art.
 
 <div id="scroll-view" markdown="1" style="display:none;">
 
-## Gallery (scroll view)
+## Gallery
 
 ### Unpack dense science with Sciontho! (2025)
 
