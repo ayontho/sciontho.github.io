@@ -1345,3 +1345,13 @@ footer a:hover {
 .navbar-nav {
   margin-right: 20px;    /* ensure menu is not flush against the right edge */
 }
+/* Tighter spacing between navbar items */
+.navbar-nav > li {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.navbar-nav > li > a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
