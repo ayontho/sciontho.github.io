@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Home
+title: Sci-on
 permalink: /
 ---
 
 Let's try and think like Tinbergen:
 
-**One**, "It's thus. What makes it so?"
-**Two**, "Huh. But why should it be so?"
-**Three**, "How has it come to be,
-What ingredients make the recipe?"
-**Finally**, it must be solved
-How on earth has this evolved?
+**One**, "It's thus. What makes it so?"  
+**Two**, "Huh. But why should it be so?"  
+**Three**, "How has it come to be,  
+What ingredients make the recipe?"  
+**Finally**, it must be solved  
+How on earth has this evolved?  
 
 ---
 
