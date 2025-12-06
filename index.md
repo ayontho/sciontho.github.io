@@ -4,10 +4,10 @@ title: Sci-on
 permalink: /
 ---
 
-Let's try and think like Tinbergen:
-
 <div class="poem-block" markdown="1">
-  
+
+  Let's try and think like Tinbergen:
+
 ***One**, "It's thus. What makes it so?"*  
 ***Two**, "Huh. But why should it be so?"*  
 ***Three**, "How has it come to be,*  
