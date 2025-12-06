@@ -48,4 +48,3 @@ Use the navigation bar above to explore.
   {% endfor %}
 
 </div>
-
